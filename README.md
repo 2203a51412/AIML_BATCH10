@@ -8,3 +8,4 @@
 7.[lab-8](https://github.com/2203a51412/AIML_BATCH10/blob/main/Lab8.ipynb)
 8.[lab-9](https://github.com/2203a51412/AIML_BATCH10/blob/main/Lab9.ipynb)
 9.[lab-10](https://github.com/2203a51412/AIML_BATCH10/blob/main/lab10.ipynb)
+10.[project](https://github.com/2203a51412/AIML_BATCH10/blob/main/Rainfall.ipynb)
